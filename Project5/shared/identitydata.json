@@ -1,0 +1,25 @@
+﻿{
+  "IdentityData": {
+    "Roles": [
+      {
+        "Name": "AkıllıphoneIdentityAdminAdministrator"
+      }
+    ],
+    "Users": [
+      {
+        "Username": "admin",
+        "Password": "Passw0rd123.",
+        "Email": "yazilimdestek@akilliphone.com",
+        "Roles": [
+          "AkıllıphoneIdentityAdminAdministrator"
+        ],
+        "Claims": [
+          {
+            "Type": "name",
+            "Value": "admin"
+          }
+        ]
+      }
+    ]
+  }
+}
